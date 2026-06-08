@@ -1,0 +1,97 @@
+{
+  "name": "LOUVAI AO SENHOR - Hinário Oficial",
+  "short_name": "LOUVAI AO SENHOR",
+  "description": "Hinário Oficial da Igreja Evangélica Reformada de Angola com 301 hinos. Offline-first com busca rápida por número e palavra-chave.",
+  "start_url": "./Hinario_IERA.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F8F7F2",
+  "theme_color": "#003087",
+  "categories": ["books", "music", "religion"],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 540 720'><rect fill='%23003087' width='540' height='720'/><rect fill='%23C9A227' x='225' y='240' width='90' height='90' opacity='0.3'/><text x='270' y='380' font-family='Arial' font-size='36' font-weight='bold' fill='white' text-anchor='middle'>LOUVAI AO SENHOR</text></svg>",
+      "sizes": "540x720",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1440'><rect fill='%23003087' width='1080' height='1440'/><rect fill='%23C9A227' x='450' y='480' width='180' height='180' opacity='0.3'/><text x='540' y='760' font-family='Arial' font-size='72' font-weight='bold' fill='white' text-anchor='middle'>LOUVAI AO SENHOR</text></svg>",
+      "sizes": "1080x1440",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><defs><linearGradient id='g1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:%23001a52;stop-opacity:1'/><stop offset='100%' style='stop-color:%230047c0;stop-opacity:1'/></linearGradient></defs><rect width='192' height='192' fill='url(%23g1)' rx='45'/><circle cx='96' cy='96' r='80' fill='%23C9A227' opacity='0.15'/><g transform='translate(96,96) scale(0.5)' fill='%23C9A227'><polygon points='0,-80 20,-20 80,-20 30,20 50,80 0,40 -50,80 -30,20 -80,-20 -20,-20'/></g><text x='96' y='160' font-family='Cinzel,serif' font-size='28' font-weight='bold' fill='%23C9A227' text-anchor='middle'>✝</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><defs><linearGradient id='g2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:%23001a52;stop-opacity:1'/><stop offset='100%' style='stop-color:%230047c0;stop-opacity:1'/></linearGradient></defs><rect width='512' height='512' fill='url(%23g2)' rx='120'/><circle cx='256' cy='256' r='200' fill='%23C9A227' opacity='0.15'/><g transform='translate(256,256) scale(1.2)' fill='%23C9A227'><polygon points='0,-80 20,-20 80,-20 30,20 50,80 0,40 -50,80 -30,20 -80,-20 -20,-20'/></g><text x='256' y='420' font-family='Cinzel,serif' font-size='72' font-weight='bold' fill='%23C9A227' text-anchor='middle'>✝</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><defs><linearGradient id='g3' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:%23001a52;stop-opacity:1'/><stop offset='100%' style='stop-color:%230047c0;stop-opacity:1'/></linearGradient></defs><rect width='192' height='192' fill='url(%23g3)' rx='45'/><circle cx='96' cy='96' r='80' fill='%23C9A227' opacity='0.15'/><g transform='translate(96,96) scale(0.5)' fill='%23C9A227'><polygon points='0,-80 20,-20 80,-20 30,20 50,80 0,40 -50,80 -30,20 -80,-20 -20,-20'/></g><text x='96' y='160' font-family='Cinzel,serif' font-size='28' font-weight='bold' fill='%23C9A227' text-anchor='middle'>✝</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Hinos",
+      "short_name": "Hinos",
+      "description": "Ver biblioteca completa de hinos",
+      "url": "./Hinario_IERA.html?tab=hymns",
+      "icons": [
+        {
+          "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'><rect fill='%23003087' width='96' height='96' rx='22'/><text x='48' y='60' font-size='48' text-anchor='middle' fill='%23C9A227'>🎵</text></svg>",
+          "sizes": "96x96",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Pesquisar",
+      "short_name": "Pesquisar",
+      "description": "Pesquisar por número ou palavra-chave",
+      "url": "./Hinario_IERA.html?tab=search",
+      "icons": [
+        {
+          "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'><rect fill='%23003087' width='96' height='96' rx='22'/><text x='48' y='60' font-size='48' text-anchor='middle' fill='%23C9A227'>🔍</text></svg>",
+          "sizes": "96x96",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Favoritos",
+      "short_name": "Favoritos",
+      "description": "Meus hinos favoritos salvos",
+      "url": "./Hinario_IERA.html?tab=favorites",
+      "icons": [
+        {
+          "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'><rect fill='%23003087' width='96' height='96' rx='22'/><text x='48' y='60' font-size='48' text-anchor='middle' fill='%23C9A227'>⭐</text></svg>",
+          "sizes": "96x96",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "share_target": {
+    "action": "/share",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  }
+}
