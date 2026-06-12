@@ -1,12 +1,12 @@
 {
   "name": "LOUVAI AO SENHOR - Hinário Oficial",
   "short_name": "LOUVAI AO SENHOR",
-  "description": "Hinário Oficial da Igreja Evangélica Reformada de Angola.",
+  "description": "Hinário Oficial da Igreja Evangélica Reformada de Angola com 301 hinos. Offline-first com busca rápida por número e palavra-chave.",
   "start_url": "./Hinario_IERA.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#f8f7f2",
+  "background_color": "#F8F7F2",
   "theme_color": "#003087",
   "categories": ["books", "music", "religion"],
   "screenshots": [
